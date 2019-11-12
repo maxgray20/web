@@ -2,7 +2,7 @@ body {
   font-family: Georgia, serif;
   width: 700px;
   margin: auto;
-  background-image: "https://www.namuseum.gr/wp-content/uploads/2018/10/11-X-13396_lightbox.jpg";
+  background-image: url("https://www.namuseum.gr/wp-content/uploads/2018/10/11-X-13396_lightbox.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
