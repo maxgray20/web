@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   width: 700px;
   margin: auto;
   background-image: url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/03041415/Vo_Olowska_Beck-1024x441.png");
@@ -26,15 +26,15 @@ h3 {
   padding-top: 20px;
 }
 p {
-  font-size: large;
+  font-size: larger;
 }
 li {
   padding-bottom: 8px;
-  font-size: large;
+  font-size: larger;
 }
 em {
   font-style: italic;
 }
 .text {
-  font-size: large;
+  font-size: larger;
 }
