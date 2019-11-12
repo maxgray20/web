@@ -32,6 +32,9 @@ li {
 em {
   font-style: italic;
 }
+.body {
+  background-color: ghostwhite;
+}
 .text {
   font-size: large;
 }
