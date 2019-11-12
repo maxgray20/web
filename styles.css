@@ -4,10 +4,7 @@ body {
   width: 700px;
   margin: auto;
   background: 
-     linear-gradient(
-      E8C984, 
-      E8C984
-    ),
+    linear-gradient(e8c984,e8c984),
     url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/03041415/Vo_Olowska_Beck-1024x441.png");
   background-blend-mode: lighten;
   background-position: center;
