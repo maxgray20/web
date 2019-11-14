@@ -13,33 +13,33 @@ h1 {
   margin-bottom: 2px;
   float: left;
   padding-top: 4px;
-  color: indigo;
+  font-style: bold;
 }
 h2 {
   font-size: medium;
   font-style: italic;
   padding-top: 40px;
   text-align: right;
-  color: indigo;
+  font-style: bold;
 }
 h3 {
   font-size: x-large;
   padding-top: 20px;
-  color: indigo;
+  font-style: bold;
 }
 p {
   font-size: larger;
-  color: indigo;
+  font-style: bold;
 }
 li {
   padding-bottom: 8px;
   font-size: larger;
-  color: indigo;
+  font-style: bold;
 }
 em {
-  font-style: italic;
+  font-style: italic,bold;
 }
 .text {
   font-size: larger;
-  color: indigo;
+  font-style: bold;
 }
