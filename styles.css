@@ -3,11 +3,6 @@ body {
   font-weight: 500;
   width: 700px;
   margin: auto;
-  background-image: url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/26081114/2012.210_01_H02-Large-TIFF_4000-pixels-long-638x850.jpg");
-  background-position: left top;
-  background-size: 60% 60%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 h1 {
   margin-bottom: 2px;
