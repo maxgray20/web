@@ -13,14 +13,12 @@ h1 {
   margin-bottom: 2px;
   float: left;
   padding-top: 4px;
-  font-style: bold;
 }
 h2 {
   font-size: medium;
   font-style: italic;
   padding-top: 40px;
   text-align: right;
-  font-style: bold;
 }
 h3 {
   font-size: x-large;
@@ -29,17 +27,18 @@ h3 {
 }
 p {
   font-size: larger;
-  font-style: bold;
+  font-weight: bold;
 }
 li {
   padding-bottom: 8px;
   font-size: larger;
-  font-style: bold;
+  font-weight: bold;
 }
 em {
-  font-style: italic,bold;
+  font-style: italic;
+  font-weight: bold;
 }
 .text {
   font-size: larger;
-  font-style: bold;
+  font-weight: bold;
 }
