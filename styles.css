@@ -29,14 +29,17 @@ h3 {
 }
 p {
   font-size: larger;
+  color: indigo;
 }
 li {
   padding-bottom: 8px;
   font-size: larger;
+  color: indigo;
 }
 em {
   font-style: italic;
 }
 .text {
   font-size: larger;
+  color: indigo;
 }
