@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
+  color: white;
   width: 700px;
   margin: auto;
   background-image: linear-gradient(rgba(113,107,255,.25),rgba(113,107,255,.25)),url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/03041415/Vo_Olowska_Beck-1024x441.png");
