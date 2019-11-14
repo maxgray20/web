@@ -3,7 +3,7 @@ body {
   font-weight: 500;
   width: 700px;
   margin: auto;
-  background-image: linear-gradient(rgba(255,232,171,100),rgba(255,232,171,100)),url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/03041415/Vo_Olowska_Beck-1024x441.png");
+  background-image: linear-gradient(rgba(255,232,171,.5),rgba(255,232,171,.5)),url("https://s3-us-west-1.amazonaws.com/sfmoma-media-dev/www-media/2018/08/03041415/Vo_Olowska_Beck-1024x441.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
