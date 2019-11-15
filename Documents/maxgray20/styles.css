@@ -1,8 +1,9 @@
 body {
-  font-family: Georgia, serif;
+  font-family: Georgia, Times New Roman, serif;
+  font-weight: 500;
   width: 700px;
   margin: auto;
-  background: ghostwhite;
+  background-color: ghostwhite;
 }
 h1 {
   margin-bottom: 2px;
@@ -20,15 +21,15 @@ h3 {
   padding-top: 20px;
 }
 p {
-  font-size: large;
+  font-size: larger;
 }
 li {
   padding-bottom: 8px;
-  font-size: large;
+  font-size: larger;
 }
 em {
   font-style: italic;
 }
 .text {
-  font-size: large;
+  font-size: larger;
 }
