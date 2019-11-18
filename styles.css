@@ -1,8 +1,19 @@
+@media (min-width: 550px) {
+  body {
+    width: 500px;
+    margin: auto;
+  }
+}
+@media (max-width: 550px) {
+  body {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+  }
+}
 body {
   font-family: Georgia, Times New Roman, serif;
   font-weight: 500;
-  width: 700px;
-  margin: auto;
   background-color: white;
   color: darkslategrey;
 }
