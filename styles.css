@@ -18,9 +18,9 @@ body {
   color: darkslategrey;
 }
 h1 {
-  margin-bottom: 2px;
   float: left;
   padding-top: 4px;
+  margin-bottom: 2px;
 }
 h2 {
   font-size: medium;
