@@ -14,7 +14,7 @@
 body {
   font-family: Palatino, Times, serif;
   font-weight: 500;
-  background-color: white;
+  background-color: lightgray;
   color: black;
 }
 h1 {
@@ -45,9 +45,10 @@ em {
   font-size: larger;
 }
 .raisedbox {
-  padding-top: 6px;
-  padding-right: 20px;
-  padding-bottom: 20px;
+  background-color: white;
+  padding-top: 0px;
+  padding-right: 25px;
+  padding-bottom: 25px;
   padding-left: 20px;
   margin-top: 40px;
   margin-bottom: 40px;
