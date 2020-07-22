@@ -19,18 +19,21 @@ body {
 }
 h1 {
   float: left;
+  font-weight: normal;
 }
 h2 {
   font-size: medium;
-  padding-top: 40px;
+  padding-top: 35px;
   text-align: right;
+  font-weight: normal;
 }
 h3 {
   font-size: x-large;
   padding-top: 20px;
+  font-weight: normal;
 }
 p {
-  font-size: larger;
+  font-size: medium;
 }
 li {
   padding-bottom: 8px;
