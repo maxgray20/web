@@ -37,13 +37,13 @@ p {
 }
 li {
   padding-bottom: 8px;
-  font-size: larger;
+  font-size: medium;
 }
 em {
   font-style: italic;
 }
 .text {
-  font-size: larger;
+  font-size: medium;
 }
 .raisedbox {
   background-color: white;
