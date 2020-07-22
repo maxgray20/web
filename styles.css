@@ -44,3 +44,8 @@ em {
 .text {
   font-size: larger;
 }
+.raisedbox {
+  -webkit-box-shadow: 2px 2px 5px 3px #DCDCDC;
+  -moz-box-shadow:    2px 2px 5px 3px #DCDCDC;
+  box-shadow:         2px 2px 5px 3px #DCDCDC;
+}
