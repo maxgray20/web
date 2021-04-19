@@ -1,7 +1,6 @@
 @media (min-width: 750px) {
   body {
     width: 700px;
-    padding-top: 20px;
     margin: auto;
   }
 }
@@ -60,7 +59,8 @@ em {
 }
 .navbar {
   overflow: hidden;
-  position: right; /* Set the navbar to fixed position */
+  position: absolute;
+  right: 0;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
