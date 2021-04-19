@@ -1,6 +1,7 @@
 @media (min-width: 750px) {
   body {
     width: 700px;
+    padding-top: 20px;
     margin: auto;
   }
 }
