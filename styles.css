@@ -18,13 +18,10 @@ body {
   color: black;
 }
 h1 {
-  float: left;
   font-weight: normal;
 }
 h2 {
   font-size: medium;
-  padding-top: 36px;
-  text-align: right;
   font-weight: normal;
 }
 h3 {
@@ -47,7 +44,7 @@ em {
 }
 .raisedbox {
   background-color: white;
-  padding-top: 0px;
+  padding-top: 30px;
   padding-right: 20px;
   padding-bottom: 30px;
   padding-left: 20px;
@@ -59,8 +56,8 @@ em {
 }
 .navbar {
   text-align: right;
-  padding-top: 0px;
+  padding-top: 30px;
   padding-right: 20px;
+  padding-bottom: 0px;
   padding-left: 20px;
-  margin-top: 20px;
 }
