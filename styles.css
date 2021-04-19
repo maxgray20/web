@@ -35,6 +35,11 @@ h3 {
 p {
   font-size: medium;
 }
+p.nav {
+  font-size: medium;
+  position: absolute;
+  right: 0;
+}
 li {
   padding-bottom: 8px;
   font-size: medium;
@@ -59,8 +64,7 @@ em {
 }
 .navbar {
   overflow: hidden;
-  position: absolute;
-  right: 0;
+  position: fixed;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
