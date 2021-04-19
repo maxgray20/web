@@ -17,6 +17,15 @@ body {
   background-color: whitesmoke;
   color: black;
 }
+h1 {
+  font-weight: normal;
+}
+h2 {
+  font-weight: normal;
+}
+h3 {
+  font-weight: normal;
+}
 li {
   padding-bottom: 8px;
 }
