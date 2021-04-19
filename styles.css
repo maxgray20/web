@@ -21,25 +21,20 @@ h1 {
   font-weight: normal;
 }
 h2 {
-  font-size: large;
   font-weight: normal;
 }
 h3 {
-  font-size: x-large;
   font-weight: normal;
 }
 p {
-  font-size: medium;
 }
 li {
   padding-bottom: 8px;
-  font-size: medium;
 }
 em {
   font-style: italic;
 }
 .text {
-  font-size: medium;
 }
 .raisedbox {
   background-color: white;
